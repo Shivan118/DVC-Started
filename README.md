@@ -32,3 +32,14 @@ dvc dag
 ```
 dvc repro
 ```
+
+To Create a file
+```
+tocuh file_name.extenstion
+```
+
+TO Create a Folder
+
+```
+mkdir filename
+```
