@@ -15,13 +15,18 @@ Install DVC
 ```
 pip install dvc
 ```
- 
+ Git initialiesd
+
 ```
 git init
-``
+```
 
 ```
 dvc init
+```
+
+```
+dvc dag
 ```
 
 ```
