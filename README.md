@@ -16,3 +16,14 @@ Install DVC
 pip install dvc
 ```
  
+```
+git init
+``
+
+```
+dvc init
+```
+
+```
+dvc repro
+```
